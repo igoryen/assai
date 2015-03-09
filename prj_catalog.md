@@ -25,7 +25,7 @@
 2. **`bacuri`** - a simple Bible database to practice MySQL queries   
 3. **`bael`** - count down functions and elapsed time counters   
 1. **`banana`** - my CDOT logs   
-1. **`barbadine`** - experimenting with nunjucks   
+1. **`barbadine`** - (empty)   
 1. **`Bolwarra`** - jQuery disappearing divs     
 1. **`Boquila`** - jQuery, `hide()`     
 1. **`Breadnut`** - jQuery, `mouseleave()`   
