@@ -12,6 +12,7 @@
 1. **`and_lab02t`** - android lab 2 redone because of a glitch on Eclipse   
 1. **`and_Layouts`** - Android course at Seneca   
 1. **`AndroidFirstApp`**   
+2. **`annona`** - AngularJS exercises from a book
 1. **`annotations`** - web services annotations   
 1. **`apple`** - Hello World in Node.js     
 1. **`apricot`** - A simple HTTP server. A more advanced app than apple   
