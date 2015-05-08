@@ -25,6 +25,7 @@
 1. **`babaco`** - to test pieces of code   
 1. **`bacupari`** - experimenting with unit testing   
 2. **`bacuri`** - a simple Bible database to practice MySQL queries   
+1. **`batuan`** - PHP script to upload files to server
 3. **`bael`** - count down functions and elapsed time counters   
 1. **`banana`** - my CDOT logs   
 1. **`barbadine`** - (empty)   
