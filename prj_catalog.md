@@ -20,6 +20,7 @@
 1. **`arhat`** - Using the fs module   
 1. **`assai`** - this catalog of projects
 1. **`atemoya`** - A script to import (download) resource files from Transifex   
+1. **`atherton`** - (look at home)
 1. **`avocado`** - first attempt to localize (130527)   
 1. **`babaco`** - to test pieces of code   
 1. **`bacupari`** - experimenting with unit testing   
