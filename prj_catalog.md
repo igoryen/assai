@@ -29,6 +29,8 @@
 3. **`bael`** - count down functions and elapsed time counters   
 1. **`banana`** - my CDOT logs   
 1. **`barbadine`** - (empty)   
+1. **`bearberry`** - to keep track of gym progress (Zend)
+1. **`bignay`** - for banking activity (Zend)   
 1. **`Bolwarra`** - jQuery disappearing divs     
 1. **`Boquila`** - jQuery, `hide()`     
 1. **`Breadnut`** - jQuery, `mouseleave()`   
