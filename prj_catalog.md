@@ -3,16 +3,14 @@
 1. **`abiu`**  - using `express.js` (https://npmjs.org/package/express)      
 1. **`acerola`** - practice using `fs.writeFile()`      
 1. **`ackee`** - practice using the 'plist' module   
-1. **`African cherry orange`** - $
-1. **`African moringa`** - $
-1. **`Agave`** - $
-1. **`Allspice`** - $
-1. **`almond`** -  an app that has the bookmarks for interesting links. the first attempt to create an app in Node.js, and localized at that.    
-1. **`Amazon basin`** - $
+1. **`moringa`** - $
+1. **`agave`** - $
+1. **`allspice`** - $
+1. **`almond`** - an app that has the bookmarks for interesting links. the first attempt to create an app in Node.js, and localized at that.    
 1. **`ambarella`** -   simple expriment with localization and templates   
-1. **`American Black Elderberry`** - $
-1. **`American Chestnut`** - $
-1. **`American grape`** - $
+1. **`elderberry`** - $
+1. **`chestnut`** - $
+1. **`grape`** - $
 1. **`American Hazelnut`** - $
 1. **`American Mayapple`** - $
 1. **`American Persimmon`** - $
