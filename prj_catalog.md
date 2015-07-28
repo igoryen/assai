@@ -3,7 +3,7 @@
 1. **`abiu`**  - using `express.js` (https://npmjs.org/package/express)      
 1. **`acerola`** - practice using `fs.writeFile()`      
 1. **`ackee`** - practice using the 'plist' module   
-1. **`agave`** - $
+1. **`agave`** - create rows of equivalent phrases in multiple languages
 1. **`allspice`** - $
 1. **`almond`** - $
 1. **`almond`** - an app that has the bookmarks for interesting links. the first attempt to create an app in Node.js, and localized at that.    
