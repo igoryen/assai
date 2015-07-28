@@ -4,7 +4,7 @@
 1. **`acerola`** - practice using `fs.writeFile()`      
 1. **`ackee`** - practice using the 'plist' module   
 1. **`agave`** - create rows of equivalent phrases in multiple languages
-1. **`allspice`** - $
+1. **`allspice`** - Hello World for JEE Web Services
 1. **`almond`** - $
 1. **`almond`** - an app that has the bookmarks for interesting links. the first attempt to create an app in Node.js, and localized at that.    
 1. **`ambarella`** -   simple expriment with localization and templates   
