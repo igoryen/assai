@@ -45,7 +45,7 @@
 1. **`blueberry`** - $
 1. **`bolwarra`** - jQuery disappearing divs     
 1. **`boquila`** - jQuery, `hide()`     
-1. **`bramble`** - $
+1. **`bramble`** - CRUD in AngularJS
 1. **`breadfruit`** - $
 1. **`breadnut`** - jQuery, `mouseleave()`   
 1. **`buffaloberry`** - jQuery, change color     
