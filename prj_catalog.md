@@ -32,7 +32,7 @@
 1. **`bacuri`** - a simple Bible database to practice MySQL queries   
 1. **`bael`** - count down functions and elapsed time counters   
 1. **`banana`** - my CDOT logs   
-1. **`barbadine`** - (empty)   
+1. **`barbadine`** - playing with LESS
 1. **`barberry`** - learning WordPress development
 1. **`batuan`** - PHP script to upload files to server
 1. **`bearberry`** - to keep track of gym progress (Zend)
