@@ -36,6 +36,7 @@
 1. **`barberry`** - learning WordPress development
 1. **`batuan`** - PHP script to upload files to server
 1. **`bearberry`** - to keep track of gym progress (Zend)
+2. **`bearberry2** - temporary version of Bearberry (no framework)
 1. **`bignay`** - for banking activity (Zend)   
 1. **`bilberry`** - $
 1. **`bilimbi`** - $
