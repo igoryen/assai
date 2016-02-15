@@ -170,7 +170,7 @@
 1. **`Keule`** - $
 1. **`Kitembilla`** - $
 1. **`Kiwano`** - $
-1. **`Kiwi`** - $
+1. **`kiwi`** - a front-end app to present lyrics in different languages 
 1. **`Kiwifruit`** - $
 1. **`Korlan`** - $
 1. **`Kumquat`** - $
