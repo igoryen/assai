@@ -38,7 +38,7 @@
 1. **`bearberry`** - to keep track of gym progress (Zend)
 2. **`bearberry2`** - temporary version of Bearberry (no framework)
 1. **`bignay`** - for banking activity (Zend)   
-1. **`bilberry`** - $
+1. **`bilberry`** - db for keeping track of the car's expenditures
 1. **`bilimbi`** - $
 1. **`biribi`** - $
 1. **`blackberry`** - $
