@@ -193,6 +193,7 @@
 1. **`Limeberry`** - $
 1. **`Limequat`** - $
 1. **`Lingonberry`** - $
+1. **`linux-dirs`** - a file with explanations for directories in Linux 
 1. **`Loganberry`** - $
 1. **`Longan`** - $
 1. **`Loquat`** - $
