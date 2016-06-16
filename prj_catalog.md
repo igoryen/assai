@@ -40,7 +40,7 @@
 1. **`bignay`** - for banking activity (Zend)   
 1. **`bilberry`** - db for keeping track of the car's expenditures
 1. **`bilimbi`** - $
-1. **`biribi`** - $
+1. **`biribi`** - experimenting with multiple JS files
 1. **`blackberry`** - $
 1. **`blue_tongue`** - $
 1. **`blueberry`** - $
