@@ -39,7 +39,7 @@
 2. **`bearberry2`** - temporary version of Bearberry (no framework)
 1. **`bignay`** - for banking activity (Zend)   
 1. **`bilberry`** - db for keeping track of the car's expenditures
-1. **`bilimbi`** - $
+1. **`bilimbi`** - some project, need to revisit it to understand what it is
 1. **`biribi`** - experimenting with multiple JS files
 1. **`blackberry`** - $
 1. **`blue_tongue`** - $
