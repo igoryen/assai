@@ -47,11 +47,11 @@
 1. **`bolwarra`** - jQuery disappearing divs     
 1. **`boquila`** - jQuery, `hide()`     
 1. **`bramble`** - CRUD in AngularJS
-1. **`breadfruit`** - $
+1. **`breadfruit`** - a PHP code for quizz making
 1. **`breadnut`** - jQuery, `mouseleave()`   
 1. **`buffaloberry`** - jQuery, change color     
 1. **`caimito`** - animate on click (jQuery)     
-1. **`cainito`** - $
+1. **`cainito`** - learn to style HTML inputs on the front end.
 1. **`calabash`** - $
 1. **`calamansi`** - on click, `alert()` (jQuery)     
 1. **`calamondin`** - sliding, jQuery     
