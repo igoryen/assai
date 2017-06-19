@@ -43,7 +43,7 @@
 1. **`biribi`** - experimenting with multiple JS files
 1. **`blackberry`** - $
 1. **`blue_tongue`** - $
-1. **`blueberry`** - $
+1. **`blueberry`** - a reminder calendar shows what happened today during the GPW (1941-1945)
 1. **`bolwarra`** - jQuery disappearing divs     
 1. **`boquila`** - jQuery, `hide()`     
 1. **`bramble`** - CRUD in AngularJS
