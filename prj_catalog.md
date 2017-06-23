@@ -18,7 +18,7 @@
 1. **`AndroidFirstApp`**   
 1. **`annona`** - AngularJS exercises from a book
 1. **`annotations`** - web services annotations   
-1. **`apple-berry`** - $
+1. **`appleberry`** - an example of a page using an off-canvas menu with transform3D()
 1. **`apple`** - Hello World in Node.js     
 1. **`apricot`** - A simple HTTP server. A more advanced app than apple   
 1. **`araza`** - Handling URL Parameters   
