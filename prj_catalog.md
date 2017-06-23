@@ -42,7 +42,7 @@
 1. **`bilimbi`** - some project, need to revisit it to understand what it is
 1. **`biribi`** - experimenting with multiple JS files
 1. **`blackberry`** - learning to resize images in the browser using canvas
-1. **`blue_tongue`** - $
+1. **`bluetongue`** - an example of a page using a top dropdown menu with submenus (CSS3)
 1. **`blueberry`** - a reminder calendar shows what happened today during the GPW (1941-1945)
 1. **`bolwarra`** - jQuery disappearing divs     
 1. **`boquila`** - jQuery, `hide()`     
