@@ -52,7 +52,7 @@
 1. **`buffaloberry`** - jQuery, change color     
 1. **`caimito`** - animate on click (jQuery)     
 1. **`cainito`** - learn to style HTML inputs on the front end.
-1. **`calabash`** - $
+1. **`calabash`** - family history
 1. **`calamansi`** - on click, `alert()` (jQuery)     
 1. **`calamondin`** - sliding, jQuery     
 1. **`CamuCamu`** - display the dimensions of a box using `OuterHeight()` and `OuterWidth()`     
