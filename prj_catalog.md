@@ -60,7 +60,7 @@
 1. **`Cantaloupe`** - jQuery, show `$().text()`, `$().html`   
 1. **`Capuli`** - $
 1. **`Capulin`** - $
-1. **`Carambola`** - $
+1. **`carambola`** - quiz
 1. **`Cardón`** - $
 1. **`Carob`** - $
 1. **`Cassabanana`** - $
