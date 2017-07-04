@@ -58,8 +58,7 @@
 1. **`CamuCamu`** - display the dimensions of a box using `OuterHeight()` and `OuterWidth()`     
 1. **`Canistel`** - JSON Object Creation in JavaScript   
 1. **`Cantaloupe`** - jQuery, show `$().text()`, `$().html`   
-1. **`Capuli`** - $
-1. **`Capulin`** - $
+1. **`capulin`** - clean up Wiki texts for TTS
 1. **`carambola`** - quiz
 1. **`Cardón`** - $
 1. **`Carob`** - $
