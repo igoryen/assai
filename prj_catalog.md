@@ -60,7 +60,7 @@
 1. **`Cantaloupe`** - jQuery, show `$().text()`, `$().html`   
 1. **`capulin`** - clean up Wiki texts for TTS
 1. **`carambola`** - quiz
-1. **`Cardón`** - $
+1. **`cardon`** - designing emails
 1. **`Carob`** - $
 1. **`Cassabanana`** - $
 1. **`Cawesh`** - $
