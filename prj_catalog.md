@@ -61,7 +61,7 @@
 1. **`capulin`** - clean up Wiki texts for TTS
 1. **`carambola`** - quiz
 1. **`cardon`** - designing emails
-1. **`Carob`** - $
+1. **`carob`** - mockups for icon + content revealed
 1. **`Cassabanana`** - $
 1. **`Cawesh`** - $
 1. **`CDOT`**  - a text file to practice using Git   
