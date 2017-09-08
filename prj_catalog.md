@@ -118,7 +118,7 @@
 1. **`Emblica`** - $
 1. **`Falberry`** - $
 1. **`feijoa`** - resume, coverletter etc   
-1. **`fig`** - $
+1. **`fig`** - ukrainian bible
 1. **`Gac`** - $
 1. **`Galia`** - $
 1. **`gambooge`** - The first project to test out Laravel!   
