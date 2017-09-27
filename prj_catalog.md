@@ -63,7 +63,7 @@
 1. **`cardon`** - designing emails
 1. **`carob`** - mockups for icon + content revealed
 1. **`cassabanana`** - adaptive placeholders using CSS
-1. **`Cawesh`** - $
+1. **`cawesh`** - modals
 1. **`CDOT`**  - a text file to practice using Git   
 1. **`Ceriman`** - $
 1. **`charichuelo`** - WSA500 project   
