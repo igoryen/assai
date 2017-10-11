@@ -65,7 +65,7 @@
 1. **`cassabanana`** - adaptive placeholders using CSS
 1. **`cawesh`** - modals
 1. **`CDOT`**  - a text file to practice using Git   
-1. **`Ceriman`** - $
+1. **`ceriman`** - at NAS, a list of promo icons with text. One variant has a slider.
 1. **`charichuelo`** - WSA500 project   
 1. **`Chayote`** - list of the technical skills under my belt   
 1. **`Che`** - web app created in summer 2014 during my summer semester to keep track of the dates.   
