@@ -73,7 +73,7 @@
 1. **`Chenet`** - PRO608 Lab 1, hot page    
 1. **`Cherimoya`** - pro608 lab 7 - a ball that wraps around and changes colors   
 1. **`Cherry`** - pro608 lab 8, random number generator   
-1. **`chestnut`** - $
+1. **`chestnut`** - buttons with background images changing opacity on hover
 1. **`Chokeberry`** - countdown to various deadlines in Seneca   
 1. **`Chupa-Chupa`** - $
 1. **`Citron`** - $
