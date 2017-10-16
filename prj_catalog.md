@@ -75,7 +75,7 @@
 1. **`Cherry`** - pro608 lab 8, random number generator   
 1. **`chestnut`** - buttons with background images changing opacity on hover
 1. **`Chokeberry`** - countdown to various deadlines in Seneca   
-1. **`Chupa-Chupa`** - $
+1. **`chupachupa`** - tabs
 1. **`Citron`** - $
 1. **`Clementine`** - $
 1. **`Cloudberry`** - $
