@@ -77,7 +77,7 @@
 1. **`Chokeberry`** - countdown to various deadlines in Seneca   
 1. **`chupachupa`** - tabs
 1. **`citron`** - on hover play video starting at a timestamp
-1. **`Clementine`** - $
+1. **`clementine`** - responsive images
 1. **`Cloudberry`** - $
 1. **`Coco_plum`** - $
 1. **`Cocona`** - $
