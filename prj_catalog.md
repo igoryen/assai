@@ -78,7 +78,7 @@
 1. **`chupachupa`** - tabs
 1. **`citron`** - on hover play video starting at a timestamp
 1. **`clementine`** - responsive images
-1. **`Cloudberry`** - $
+1. **`cloudberry`** - $
 1. **`Coco_plum`** - $
 1. **`Cocona`** - $
 1. **`coconut`** - $
