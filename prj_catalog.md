@@ -79,10 +79,9 @@
 1. **`citron`** - on hover play video starting at a timestamp
 1. **`clementine`** - responsive images
 1. **`cloudberry`** - responsive tables (HTML, SASS)
-1. **`Coco_plum`** - $
 1. **`Cocona`** - $
 1. **`coconut`** - $
-1. **`Cocoplum`** - $
+1. **`cocoplum`** - making interlinear texts
 1. **`Cola_nut`** - $
 1. **`Conkerberry`** - $
 1. **`CPP200_report`** - portfolio and presentation on the results of the 2 coop terms I had 130505-131220   
