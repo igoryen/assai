@@ -79,8 +79,8 @@
 1. **`citron`** - on hover play video starting at a timestamp
 1. **`clementine`** - responsive images
 1. **`cloudberry`** - responsive tables (HTML, SASS)
-1. **`Cocona`** - $
-1. **`coconut`** - slide-shows, galleries etc.
+1. **`Cocona`** - slide-shows, galleries etc.
+1. **`coconut`** - 
 1. **`cocoplum`** - making interlinear texts
 1. **`Cola_nut`** - $
 1. **`Conkerberry`** - $
