@@ -82,7 +82,7 @@
 1. **`Cocona`** - slide-shows, galleries etc.
 1. **`coconut`** - 
 1. **`cocoplum`** - making interlinear texts
-1. **`Cola_nut`** - $
+1. **`colanut`** - various pages using responsive web design
 1. **`Conkerberry`** - $
 1. **`CPP200_report`** - portfolio and presentation on the results of the 2 coop terms I had 130505-131220   
 1. **`Crabapple`** - $
