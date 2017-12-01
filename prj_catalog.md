@@ -83,7 +83,7 @@
 1. **`coconut`** - 
 1. **`cocoplum`** - making interlinear texts
 1. **`colanut`** - various pages using responsive web design
-1. **`Conkerberry`** - $
+1. **`conkerberry`** - a Laravel project of 2017-11-30 via PHP storm
 1. **`CPP200_report`** - portfolio and presentation on the results of the 2 coop terms I had 130505-131220   
 1. **`Crabapple`** - $
 1. **`Cranberry`** - $
