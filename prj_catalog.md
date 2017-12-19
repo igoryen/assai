@@ -87,7 +87,7 @@
 1. **`CPP200_report`** - portfolio and presentation on the results of the 2 coop terms I had 130505-131220   
 1. **`crabapple`** - nutrient calculator
 1. **`cranberry`** - cross browser testing stuff
-1. **`Crowberry`** - $
+1. **`crowberry`** - different parallax examples
 1. **`cs_IdentitySample`** - ASP.NET MVC4 thing   
 1. **`cs_igoryen`** - ASP.NET MVC4 thing   
 1. **`cs_lab03_t`** - ASP.NET MVC4    
