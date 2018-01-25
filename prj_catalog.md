@@ -79,8 +79,8 @@
 1. **`citron`** - on hover play video starting at a timestamp
 1. **`clementine`** - responsive images
 1. **`cloudberry`** - responsive tables (HTML, SASS)
-1. **`Cocona`** - slide-shows, galleries etc.
-1. **`coconut`** - 
+1. **`cocona`** - slide-shows, galleries etc.
+1. **`coconut`** - responsive nav menu with a large number of items (for NRS)
 1. **`cocoplum`** - making interlinear texts
 1. **`colanut`** - various pages using responsive web design
 1. **`conkerberry`** - a Laravel project of 2017-11-30 via PHP storm
