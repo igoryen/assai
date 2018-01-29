@@ -102,7 +102,7 @@
 1. **`Cudrang`** - pro608 lab2, font in different web browsers   
 1. **`cupuaçu`** - an example of a campaign website
 1. **`currant`** - animate-on-scroll examples
-1. **`Damson`** - $
+1. **`damson`** - html forms, different versions
 1. **`dandylions`** - the pages to practice RWD (responsive web design)   
 1. **`Date_plum`** - $
 1. **`Date`** - $
