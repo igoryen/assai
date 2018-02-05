@@ -100,7 +100,7 @@
 1. **`cs_ToDo`** - Example that is supposed to help me do Lab 6 . ASP.NET MVC4    
 1. **`cs_ToDoOrganizer`** - c# to-do organizer. ASP.NET MVC4    
 1. **`Cudrang`** - pro608 lab2, font in different web browsers   
-1. **`cupuaçu`** - an example of a campaign website
+1. **`cupuaçu`** - 
 1. **`currant`** - animate-on-scroll examples
 1. **`damson`** - html forms, different versions
 1. **`dandylions`** - the pages to practice RWD (responsive web design)   
