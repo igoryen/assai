@@ -104,7 +104,7 @@
 1. **`currant`** - animate-on-scroll examples
 1. **`damson`** - html forms, different versions
 1. **`dandylions`** - the pages to practice RWD (responsive web design)   
-1. **`Date_plum`** - $
+1. **`dateplum`** - Google Apps script
 1. **`Date`** - $
 1. **`dba_a1`** - DBA assignment 1   
 1. **`Doubah`** - $
