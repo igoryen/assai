@@ -160,7 +160,7 @@
 1. **`Kabosu`** - $
 1. **`Kahikatea`** - $
 1. **`Kandis`** - $
-1. **`Kapok`** - $
+1. **`kapok`** - developing for Elementor
 1. **`Karkalla`** - $
 1. **`Karonda`** - $
 1. **`Kei`** - $
