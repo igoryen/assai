@@ -110,7 +110,7 @@
 1. **`doubah`** - SVG in front end
 1. **`Dragonfruit`** - $
 1. **`Duku`** - $
-1. **`Durian`** - $
+1. **`durian`** - email templates for NAS
 1. **`eggfruit_mvc`** - eggfruit made with Laravel   
 1. **`Eggfruit`** - client side web app. jobs I applied to   
 1. **`elderberry`** - $
