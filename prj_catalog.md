@@ -259,7 +259,7 @@
 1. **`Passion`** - $
 1. **`Pawpaw`** - an attempt to create a client-side web app with my resume   
 1. **`Peach`** - $
-1. **`Pear`** - $
+1. **`Pear`** - CSS (as of 190411) of the Pear project at NAS
 1. **`Pecan`** - $
 1. **`Pepino`** - $
 1. **`Pequi`** - $
