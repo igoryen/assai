@@ -132,7 +132,7 @@
 1. **`gryphtech_a`** - attempt to call a web service using ASP.NET   
 1. **`Guanabana`** - $
 1. **`Guarana`** - $
-1. **`Guava`** - $
+1. **`guava`** - front-end code for the 'minimal-blog2' theme hosted on Blue Host as of 190414
 1. **`Guavaberry`** - $
 1. **`Guinep`** - behavior of video files in different browsers   
 1. **`hackberry`** - Node.js + Express + MongoDB: an attempt to create an app (node.js) using mongodb   
