@@ -338,6 +338,7 @@
 1. **`Ugni`** - $
 1. **`Ugniberry`** - $
 1. **`Vanilla`** - $
+1. **`vine`** - firt app made with Vue.js
 1. **`Voavanga`** - $
 1. **`walnut`** - $
 1. **`Wampee`** - $
