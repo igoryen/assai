@@ -298,7 +298,7 @@
 1. **`resume_html`**   
 1. **`resume`** - my resume in client-side   
 1. **`Rhubarb`** - $
-1. **`Riberry`** - $
+1. **`riberry`** - flextype project (from Flextype.org)
 1. **`rimu`** - a react app (190909)
 1. **`Rollinia`** - $
 1. **`Rowan`** - $
