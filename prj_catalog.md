@@ -109,7 +109,7 @@
 1. **`dba_a1`** - DBA assignment 1   
 1. **`doubah`** - SVG in front end
 1. **`Dragonfruit`** - $
-1. **`Duku`** - $
+1. **`duku`** - the files for the advanced css course by Jonas on Udemy
 1. **`durian`** - email templates for NAS
 1. **`eggfruit_mvc`** - eggfruit made with Laravel   
 1. **`Eggfruit`** - client side web app. jobs I applied to   
