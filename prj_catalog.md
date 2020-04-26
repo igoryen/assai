@@ -105,7 +105,7 @@
 1. **`damson`** - html forms, different versions
 1. **`dandylions`** - the pages to practice RWD (responsive web design)   
 1. **`dateplum`** - Google Apps script
-1. **`Date`** - $
+1. **`date`** - a VueJS app. Using almost all the lessons from the Udemy Course.
 1. **`dba_a1`** - DBA assignment 1   
 1. **`doubah`** - SVG in front end
 1. **`Dragonfruit`** - $
