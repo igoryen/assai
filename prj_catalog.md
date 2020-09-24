@@ -113,7 +113,7 @@
 1. **`eggfruit_mvc`** - eggfruit made with Laravel   
 1. **`Eggfruit`** - client side web app. jobs I applied to   
 1. **`elderberry`** - a class project for Vue.js on Udemy
-1. **`Emblica`** - $
+1. **`emblica`** - interlinear translations
 1. **`Falberry`** - $
 1. **`feijoa`** - resume, coverletter etc   
 1. **`fig`** - ukrainian bible
