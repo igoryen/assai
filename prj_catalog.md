@@ -114,7 +114,7 @@
 1. **`Eggfruit`** - client side web app. jobs I applied to   
 1. **`elderberry`** - a class project for Vue.js on Udemy
 1. **`emblica`** - interlinear translations
-1. **`Falberry`** - $
+1. **`falberry`** - Trivia app - in React
 1. **`feijoa`** - resume, coverletter etc   
 1. **`fig`** - ukrainian bible
 1. **`Gac`** - $
