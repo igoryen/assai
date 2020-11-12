@@ -117,8 +117,8 @@
 1. **`falberry`** - Trivia app - in React
 1. **`feijoa`** - resume, coverletter etc   
 1. **`fig`** - ukrainian bible
-1. **`Gac`** - $
-1. **`galia` - scripts for learning pairs of words etc.
+1. **`gac`** - my portfolio on VueJS
+1. **`galia`** - scripts for learning pairs of words etc.
 1. **`gambooge`** - The first project to test out Laravel!   
 1. **`genip`** - first attempt at angular.js   
 1. **`gooseberry`** - the second attempt with `angular.js`. List of goods for Canadian Tire   
